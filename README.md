@@ -27,5 +27,9 @@ To load JSON from a file via ajax
 
 `json-server db.json`
 
+Preview
+
+http://mtg-score-board.surge.sh/
+
 ### Notes
 Project setup is based on [riot-redux tutorial](https://youtu.be/Y6vpKAGT2-8) by Andrew Van Slaars ([repo](https://github.com/avanslaars/riot-redux))
