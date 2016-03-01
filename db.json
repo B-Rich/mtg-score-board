@@ -1,91 +1,99 @@
 {
-  "date": "16.02.16",
-  "game_id": 1,
-  "player1": {
-    "name": "daryll",
-    "winner": 1,
-    "deck": [
-      "red",
-      "blue"
-    ]
-  },
-  "player2": {
-    "name": "connie",
-    "winner": 0,
-    "deck": [
-      "green"
-    ]
-  }
-}, {
-  "date": "16.02.16",
-  "game_id": 1,
-  "player1": {
-    "name": "gemma",
-    "winner": 1,
-    "deck": [
-      "white"
-    ]
-  },
-  "player2": {
-    "name": "connie",
-    "winner": 0,
-    "deck": [
-      "green"
-    ]
-  }
-}, {
-  "date": "16.02.16",
-  "game_id": 1,
-  "player1": {
-    "name": "daryll",
-    "winner": 1,
-    "deck": [
-      "red",
-      "black"
-    ]
-  },
-  "player2": {
-    "name": "david",
-    "winner": 0,
-    "deck": [
-      "white"
-    ]
-  }
-}, {
-  "date": "16.02.16",
-  "game_id": 1,
-  "player1": {
-    "name": "jt",
-    "winner": 0,
-    "deck": [
-      "red",
-      "white"
-    ]
-  },
-  "player2": {
-    "name": "wayne",
-    "winner": 1,
-    "deck": [
-      "black",
-      "blue"
-    ]
-  }
-}, {
-  "date": "16.02.16",
-  "game_id": 1,
-  "player1": {
-    "name": "ipek",
-    "winner": 0,
-    "deck": [
-      "red",
-      "white"
-    ]
-  },
-  "player2": {
-    "name": "gemma",
-    "winner": 1,
-    "deck": [
-      "black"
-    ]
-  }
+  "tasks": [
+    {
+      "date": "16.02.16",
+      "game_id": 1,
+      "player1": {
+        "name": "daryll",
+        "winner": 1,
+        "deck": [
+          "red",
+          "blue"
+        ]
+      },
+      "player2": {
+        "name": "connie",
+        "winner": 0,
+        "deck": [
+          "green"
+        ]
+      }
+    },
+    {
+      "date": "16.02.16",
+      "game_id": 1,
+      "player1": {
+        "name": "gemma",
+        "winner": 1,
+        "deck": [
+          "white"
+        ]
+      },
+      "player2": {
+        "name": "connie",
+        "winner": 0,
+        "deck": [
+          "green"
+        ]
+      }
+    },
+    {
+      "date": "16.02.16",
+      "game_id": 1,
+      "player1": {
+        "name": "daryll",
+        "winner": 1,
+        "deck": [
+          "red",
+          "black"
+        ]
+      },
+      "player2": {
+        "name": "david",
+        "winner": 0,
+        "deck": [
+          "white"
+        ]
+      }
+    },
+    {
+      "date": "16.02.16",
+      "game_id": 1,
+      "player1": {
+        "name": "jt",
+        "winner": 0,
+        "deck": [
+          "red",
+          "white"
+        ]
+      },
+      "player2": {
+        "name": "wayne",
+        "winner": 1,
+        "deck": [
+          "black",
+          "blue"
+        ]
+      }
+    },
+    {
+      "date": "16.02.16",
+      "game_id": 1,
+      "player1": {
+        "name": "ipek",
+        "winner": 0,
+        "deck": [
+          "red",
+          "white"
+        ]
+      },
+      "player2": {
+        "name": "gemma",
+        "winner": 1,
+        "deck": [
+          "black"
+        ]
+      }
+    }
+  ]
 }
